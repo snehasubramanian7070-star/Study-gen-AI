@@ -1,0 +1,4 @@
+﻿studygen-ai/.env
+studygen-ai/__pycache__/
+studygen-ai/*.pyc
+studygen-ai/studygen.db
